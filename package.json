@@ -1,6 +1,6 @@
 {
   "name": "@perjs/nuxt-eslint",
-  "version": "1.0.0-rc",
+  "version": "1.0.0-rc2",
   "main": "index.js",
   "repository": "git@github.com:perjs/nuxt-eslint.git",
   "author": "sszczepanski <sszczepanski@divante.pl>",
